@@ -1,0 +1,41 @@
+{
+	"schemaVersion": 1,
+	"id": "bratok_hitbox",
+	"version": "${version}",
+	"name": "Bratok Hitbox",
+	"description": "Продвинутый мод для полной кастомизации хитбоксов в Minecraft. / Advanced mod for full customization of hitboxes in Minecraft.",
+	"authors": [
+		"velqiz"
+	],
+	"contact": {
+		"discord": "karma_o"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/bratok_hitbox/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"com.bratok.hitbox.BratokHitbox"
+		],
+		"client": [
+			"com.bratok.hitbox.client.BratokHitboxClient"
+		],
+		"modmenu": [
+			"com.bratok.hitbox.client.BratokHitboxModMenu"
+		]
+	},
+	"mixins": [
+		{
+			"config": "bratok_hitbox.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.21.4",
+		"java": ">=21",
+		"fabric-api": "*",
+		"cloth-config": "*",
+		"modmenu": "*"
+	}
+}

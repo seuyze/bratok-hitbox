@@ -1,0 +1,48 @@
+{
+  "key.bratok_hitbox.open_menu": "Открыть меню хитбоксов",
+  "category.bratok_hitbox.menu": "Bratok Hitbox",
+  
+  "bratok_hitbox.menu.title": "Меню Bratok Hitbox",
+  "bratok_hitbox.menu.mode": "Режим: %s",
+  "bratok_hitbox.menu.settings": "Настройки хитбоксов (цвет, и т.д)",
+  "bratok_hitbox.menu.done": "Готово",
+  "bratok_hitbox.menu.reset": "Сброс настроек",
+  "bratok_hitbox.menu.reset_confirm": "§cПодтвердить?",
+  "bratok_hitbox.menu.reset_done": "§aСброшено!",
+
+  "bratok_hitbox.mode.default": "Дефолт",
+  "bratok_hitbox.mode.full": "Заливка",
+  "bratok_hitbox.mode.damage": "От урона",
+  "bratok_hitbox.mode.sight": "От взгляда",
+
+  "bratok_hitbox.config.title": "Настройки Bratok Hitbox",
+  "bratok_hitbox.config.category.global": "Глобальные настройки",
+  "bratok_hitbox.config.sub.appearance": "Внешний вид по умолчанию",
+  "bratok_hitbox.config.global.color": "Изначальный цвет",
+  "bratok_hitbox.config.global.alpha": "Изначальная прозрачность (%)",
+  "bratok_hitbox.config.global.line_width": "Толщина линий (Глобально)",
+  "bratok_hitbox.config.sub.lines": "Вспомогательные линии",
+  "bratok_hitbox.config.global.eye_line": "Отображение красной линии глаз",
+  "bratok_hitbox.config.global.look_line": "Отображение синей линии взгляда",
+  "bratok_hitbox.config.sub.filters": "Фильтры отображения",
+  "bratok_hitbox.config.filter.players": "Показывать хитбоксы игроков",
+  "bratok_hitbox.config.filter.mobs": "Показывать хитбоксы мобов",
+  "bratok_hitbox.config.filter.others": "Показывать хитбоксы прочего (лодки, рамки)",
+  "bratok_hitbox.config.sub.fading": "Затухание от расстояния",
+  "bratok_hitbox.config.fading.enable": "Включить затухание",
+  "bratok_hitbox.config.fading.max_distance": "Максимальная дистанция (блоки)",
+
+  "bratok_hitbox.config.category.full": "Фул (Заливка)",
+  "bratok_hitbox.config.full.color": "Цвет заливки",
+  "bratok_hitbox.config.full.alpha": "Прозрачность (%)",
+
+  "bratok_hitbox.config.category.damage": "От урона",
+  "bratok_hitbox.config.damage.color": "Цвет подсветки (урон)",
+  "bratok_hitbox.config.damage.alpha": "Прозрачность (%)",
+  "bratok_hitbox.config.damage.show_default": "Показывать изначальный хитбокс",
+
+  "bratok_hitbox.config.category.sight": "От взгляда",
+  "bratok_hitbox.config.sight.color": "Цвет подсветки (взгляд)",
+  "bratok_hitbox.config.sight.alpha": "Прозрачность (%)",
+  "bratok_hitbox.config.sight.show_default": "Показывать изначальный хитбокс"
+}

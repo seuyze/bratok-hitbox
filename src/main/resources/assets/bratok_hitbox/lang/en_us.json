@@ -1,0 +1,48 @@
+{
+  "key.bratok_hitbox.open_menu": "Open Hitbox Menu",
+  "category.bratok_hitbox.menu": "Bratok Hitbox",
+
+  "bratok_hitbox.menu.title": "Bratok Hitbox Menu",
+  "bratok_hitbox.menu.mode": "Mode: %s",
+  "bratok_hitbox.menu.settings": "Hitbox Settings (Color, etc.)",
+  "bratok_hitbox.menu.done": "Done",
+  "bratok_hitbox.menu.reset": "Reset Settings",
+  "bratok_hitbox.menu.reset_confirm": "§cConfirm?",
+  "bratok_hitbox.menu.reset_done": "§aReset!",
+
+  "bratok_hitbox.mode.default": "Default",
+  "bratok_hitbox.mode.full": "Filled",
+  "bratok_hitbox.mode.damage": "On Damage",
+  "bratok_hitbox.mode.sight": "On Sight",
+
+  "bratok_hitbox.config.title": "Bratok Hitbox Config",
+  "bratok_hitbox.config.category.global": "Global Settings",
+  "bratok_hitbox.config.sub.appearance": "Default Appearance",
+  "bratok_hitbox.config.global.color": "Default Color",
+  "bratok_hitbox.config.global.alpha": "Default Transparency (%)",
+  "bratok_hitbox.config.global.line_width": "Line Thickness (Global)",
+  "bratok_hitbox.config.sub.lines": "Helper Lines",
+  "bratok_hitbox.config.global.eye_line": "Show Red Eye Line",
+  "bratok_hitbox.config.global.look_line": "Show Blue Look Vector",
+  "bratok_hitbox.config.sub.filters": "Visibility Filters",
+  "bratok_hitbox.config.filter.players": "Show Player Hitboxes",
+  "bratok_hitbox.config.filter.mobs": "Show Mob Hitboxes",
+  "bratok_hitbox.config.filter.others": "Show Other Hitboxes (Boats, Frames)",
+  "bratok_hitbox.config.sub.fading": "Distance Fading",
+  "bratok_hitbox.config.fading.enable": "Enable Fading",
+  "bratok_hitbox.config.fading.max_distance": "Max Distance (Blocks)",
+
+  "bratok_hitbox.config.category.full": "Filled Mode",
+  "bratok_hitbox.config.full.color": "Fill Color",
+  "bratok_hitbox.config.full.alpha": "Transparency (%)",
+
+  "bratok_hitbox.config.category.damage": "Damage Mode",
+  "bratok_hitbox.config.damage.color": "Highlight Color (Damage)",
+  "bratok_hitbox.config.damage.alpha": "Transparency (%)",
+  "bratok_hitbox.config.damage.show_default": "Show Default Hitbox",
+
+  "bratok_hitbox.config.category.sight": "Sight Mode",
+  "bratok_hitbox.config.sight.color": "Highlight Color (Sight)",
+  "bratok_hitbox.config.sight.alpha": "Transparency (%)",
+  "bratok_hitbox.config.sight.show_default": "Show Default Hitbox"
+}
